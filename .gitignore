@@ -1,2 +1,8 @@
 # Project exclude paths
-/target/
+Thumbs.db
+.DS_Store
+target/
+out/
+.idea/
+*.iml
+*.iws
